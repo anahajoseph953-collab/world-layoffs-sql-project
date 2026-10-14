@@ -1,6 +1,6 @@
 -- EDA
 
--- Here we are jsut going to explore the data and find trends or patterns or anything interesting like outliers
+-- Here we are just going to explore the data and find trends or patterns or anything interesting like outliers
 
 
 SELECT * 
@@ -49,7 +49,7 @@ ORDER BY funds_raised_millions DESC;
 
 
 
--- SOMEWHAT TOUGHER AND MOSTLY USING GROUP BY--------------------------------------------------------------------------------------------------
+-- MOSTLY USING GROUP BY--------------------------------------------------------------------------------------------------
 
 -- Companies with the biggest single Layoff
 
